@@ -150,7 +150,7 @@ function watchShow($show) {
             <input type="password" class="form-control" name="password" required>
         </div>
         <div class="form-group">
-            <label for="confirm-password">Password: </label>
+            <label for="confirm-password">Confirm Password: </label>
             <input type="password" class="form-control" name="confirm-password" required>
         </div>
         <button id="#register-button" type="submit" class="btn btn-default">Register</button>
